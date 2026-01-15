@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import filedialog
 
 # --- INFORMACIÓN DEL PROYECTO ---
-__version__ = '3.0.0'
+__version__ = '2.0.0'
 # -------------------------------
 
 def obtener_ruta_base():
