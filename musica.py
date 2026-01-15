@@ -9,6 +9,7 @@ from tkinter import filedialog
 # --- INFORMACIÓN DEL PROYECTO ---
 __version__ = '2.0.0'
 # -------------------------------
+
 def obtener_ruta_base():
     """Detecta si es .exe o script para saber dónde guardar el archivo de configuración""" 
     if getattr(sys, 'frozen', False):
