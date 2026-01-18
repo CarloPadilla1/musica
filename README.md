@@ -8,10 +8,10 @@ Hice esto porque ya me dió pereza pedirle el ytdownloader a mi pana y es tarde 
 
 python -m pip install -r requirements.txt
 
-## Notas v2.0.0
+## Notas v2.1.0
 
-- Cree un `.exe` para que no instales las librerías de forma manual la interfaz grafica para mañana(cuando me vuelva la inspiración)
-- Ahora cuando de termine el menú te pedirá donde lo quieres guardad, abriendo el explorador de archivos
+- Se agregó el formato de opus para audios de alta calidad
+- Se agregó el formato de webm para videos de alta calidad
 - Tener ffmpeg sigue siendo obligatorio
 
 ### Instalar FFmpeg (esto es para pasarlo a mp3)
