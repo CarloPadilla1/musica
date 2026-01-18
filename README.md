@@ -27,8 +27,8 @@ Agrega la carpeta `bin`(del directorio ffmpeg) a tu PATH
 
 ```bash
 python musica.py
-o
-ejecutar MusicaDownloader_v2.exe
+o  
+ejecutar MusicaDownloader_v2.1.0.exe
 ```
 
 ### Ejecución
